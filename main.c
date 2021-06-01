@@ -11,7 +11,7 @@ int iDelation=iTimeMs*MILISECOND;
 	
  for(uiLoopCounter=0; uiLoopCounter<iDelation; uiLoopCounter++){}
 }
-//lecimy z gitem cos nie dziala mi lol
+//sdsdsdsdd
 
 int main(){
 
